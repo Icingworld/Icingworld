@@ -25,7 +25,7 @@ Welcome to my page! And here is something to show you.
 + [WW-Memory-Pool: A thread-cache memory pool in cpp](https://github.com/Icingworld/WW-Memory-Pool)
 + [WW-KVStore: A KV storage based on skiplist](https://github.com/Icingworld/WW-KVStore)
 + [WW-RPC: A tiny c++ RPC framework](https://github.com/Icingworld/WW-RPC)
-+ [WW-RaftKV](https://github.com/Icingworld/WW-RaftKV)
++ [WW-RaftKV: A distributed key-value store built upon the Raft consensus algorithm](https://github.com/Icingworld/WW-RaftKV)
 
 ### GitHub Stats
 
