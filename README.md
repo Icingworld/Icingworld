@@ -27,6 +27,7 @@ Welcome to my page! And here is something to show you.
 + [WW-RPC: A tiny c++ RPC framework](https://github.com/Icingworld/WW-RPC)
 + [WW-RaftKV: A distributed key-value store built upon the Raft consensus algorithm](https://github.com/Icingworld/WW-RaftKV)
 + [dreamdb: A lightweight C++ vector database](https://github.com/Icingworld/dreamdb)
++ [litedb: A lightweight experimental database written in modern C++](https://github.com/Icingworld/litedb)
 
 ### GitHub Stats
 
